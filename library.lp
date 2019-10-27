@@ -7,4 +7,5 @@
  (created 2019-10-27T20:21:23Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Tubes.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
 )
