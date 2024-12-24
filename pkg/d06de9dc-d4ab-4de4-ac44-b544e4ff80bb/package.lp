@@ -1,5 +1,5 @@
 (librepcb_package d06de9dc-d4ab-4de4-ac44-b544e4ff80bb
- (name "Sovtek IN-12")
+ (name "SOVTEK_IN-12")
  (description "\"Sovtek\"-braded nixie tube by Reflektor.\n\nThe footprint works for both IN-12A and IN-12B variants.\n\nLength: 21 mm\nWidth: 32 mm\nPin diameter: 1.02 mm")
  (keywords "nixie,tube,in-12,in-12b,in12,in12b")
  (author "Danilo Bargen")
