@@ -3,7 +3,7 @@
  (description "Vacuum / electron tubes library (including nixie tubes).")
  (keywords "")
  (author "LibrePCB")
- (version "0.1.2")
+ (version "0.1.3")
  (created 2019-10-27T20:21:23Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Tubes.lplib")
